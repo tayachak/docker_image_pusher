@@ -8,3 +8,4 @@ xhofe/alist:latest
 snowdreamtechamd64/frps:latest
 dreamacro/clash:latest
 haishanh/yacd:latest
+xianwei2022/stars.client:latest
